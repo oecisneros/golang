@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// go run canis.go
 func main() {
 	const distanceToCanis = 236000000000000000 // km
 	const lightSpeed = 300000                  // km/s
